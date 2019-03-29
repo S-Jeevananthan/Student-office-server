@@ -1,0 +1,106 @@
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe.config
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\bin\Debug\officeServer-master.pdb
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csprojResolveAssemblyReference.cache
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Properties.Resources.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.GenerateResource.cache
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.CoreCompileInputs.cache
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer-master.exe
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer-master.pdb
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.credits.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Form1.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDetails.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewStudent.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insert.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertDepartment.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertStudent.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewCourse.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDepartment.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.delete.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteCourse.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteDepartment.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteStudent.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertCourse.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.update.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateCourse.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateDepartment.resources
+C:\Users\Harish\Desktop\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateStudent.resources
+D:\16BCS071\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe.config
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer-master.exe
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer-master.pdb
+D:\16BCS071\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe
+D:\16BCS071\officeServer-master\officeServer-master\bin\Debug\officeServer-master.pdb
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csprojResolveAssemblyReference.cache
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.credits.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.delete.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteCourse.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteDepartment.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteStudent.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Form1.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insert.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertCourse.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertDepartment.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertStudent.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Properties.Resources.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.update.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateCourse.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateDepartment.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateStudent.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewCourse.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDepartment.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDetails.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewStudent.resources
+D:\16BCS071\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.GenerateResource.Cache
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe.config
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.pdb
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csprojResolveAssemblyReference.cache
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.credits.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.delete.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteCourse.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteDepartment.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteStudent.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Form1.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insert.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertCourse.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertDepartment.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertStudent.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Properties.Resources.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.update.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateCourse.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateDepartment.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateStudent.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewCourse.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDepartment.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDetails.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewStudent.resources
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.GenerateResource.cache
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.CoreCompileInputs.cache
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.exe
+C:\Users\Harish\Desktop\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.pdb
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe.config
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.exe
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.pdb
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.exe
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\bin\Debug\officeServer-master.pdb
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csprojResolveAssemblyReference.cache
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.credits.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.delete.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteCourse.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteDepartment.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.deleteStudent.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Form1.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insert.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertCourse.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertDepartment.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.insertStudent.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.Properties.Resources.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.update.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateCourse.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateDepartment.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.updateStudent.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewCourse.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDepartment.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewDetails.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer_master.viewStudent.resources
+E:\Project&Papaer Presentation\MiniProject OfficeServer\officeServer-master\officeServer-master\obj\Debug\officeServer-master.csproj.GenerateResource.Cache
